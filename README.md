@@ -1,2 +1,6 @@
-# springboot-mybatis
-springboot-mybatis demo
+# springboot-example
+springboot-example
+
+- Spring Boot
+- Thymeleaf
+- Mybatis
